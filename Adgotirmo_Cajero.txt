@@ -1,0 +1,22 @@
+Adgoritmo para el uso del cajero automatico EDTecnica:
+
+BANCO EDTECNICA.
+1- Ingresa la tarjeta.
+2- Darle a elegir el Idioma al usuario (Español o Ingles).
+3- Agregar la Clave de la tarjeta
+4- Validar contraseña de la tarjeta.
+5- Poner a elegir al Usuario si la tarjeta pertenece al mismo Banco EDTECNICA o pertenece a otro banco (BANCO DE VENEZUELA Y BANCO MERCANTIL).
+6- Si es del banco activar las 5 opciones (Consulta, Retiro, Cambio de Clave, Deposito, Tranferencia)
+7- Si selecciona la opcion Retiro Activar 6 opciones de retiro donde la 1er opcion es: 1$, 2da opcion es:2$, 3era opcion es:10$, 4ta opcion es: 20$, 5ta opcion: 50$, 6ta opcion es el monto que elija el usuario.
+8- Comprobar si la tarjeta es del mismo banco EDTECNICA
+9- Si es del mismo BANCO EDTECNICA comprobar si posee saldo en la cuenta.
+10. Si el usuario tiene saldo en la cuenta dejar retirar la opcion selecionada.
+11. Si el usuario no tiene saldo enviar un mensaje con lo siguiente: No posee saldo suficiente en la cuenta, colarcar un monto valido. Su saldo es:
+12- Sino es del mismo BANCO Darle la opcione de cambiar al banco que pertece (BANCO DE VENEZUELA o BANCO MERCANTIL)
+13- Activar las 3 opciones (Consulta, Retiro, Cambio de Clave)
+14- Activar 3 opciones de retiro donde la 1er opcion es: 1$, 2da opcion es:2$, 3era opcion es:10$.
+15- Validar si tiene saldo en la cuenta.
+16- Si el Usuario no tiene saldo enviar un mensaje con lo siguiente: No posee saldo en la Cuenta, selecciones un monto correcto
+17- Si el usuario elige la opcion de cambio de clave habilitar la opcion de cambio de clave y mostrarle un proceso en el cual lo haga.
+18- y si el usuario confirma cambiar de clave validar con los dos ultimos digitos de la cedula.
+19- Mostrar un mensaje confirmando si fue exitoso el procedimiento o no fue exitoso.
